@@ -6,5 +6,5 @@
 #private_key = "8a3236a8-2152-435f-859d-94280c397bdb"
 
 # Username and Passwords allow us to log in with an account
-username = 'nayakv'
-password = 'Mongodb73'
+username = 'cant reveal'
+password = 'cant reveal'
